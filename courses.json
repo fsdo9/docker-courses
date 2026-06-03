@@ -12,9 +12,15 @@
     "grade": "A0"
   },
   {
-    "course_name": "인간로봇상호작용",
-    "year": "2026",
-    "semester": "2",
+    "course_name": "로봇명사와의만남",
+    "year": "2025",
+    "semester": "1",
+    "grade": "A+"
+  },
+  {
+    "course_name": "의료데이터의이해",
+    "year": "2025",
+    "semester": "1",
     "grade": "A+"
   }
 ]
